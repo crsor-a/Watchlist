@@ -8,7 +8,7 @@ Watchlist is a native SwiftUI app that I designed with the following capabilitie
 
 - A Home tab summarizes recent additions, favorites, and charts corresponding to TMDb data
 - New content entries are automatically filled in with the TMDb API, with the option of manual entry for flexibility
-- Shows have episode guides pulled from TMDb, providing rich context about a show's context with seasons, descriptions, and imagery
+- Shows have episode guides pulled from TMDb, providing rich context about a show's episodes with seasons, descriptions, and imagery
 - A Library tab allows comprehensive categorization and viewing of all content entries
 - A deeply personal Me tab provides analytics about logged data, support for profile creation with names, access to app settings, and import/export of user data and libraries
 
